@@ -1,6 +1,6 @@
-You will need to copy this markdown, create your own **private** gist, and paste this markdown in your own gist. After each project, you will take time to come back to your private gist and answer each of the questions that are outlined for you below. 
+You will need to copy this markdown, by either creating your own **private** gist, or creating a google doc. Paste this markdown into your own gist or google doc. After each project, you will take time to come back to your log and answer each of the questions that are outlined for you below. 
 
-# M1 Project Reflections
+# M1 Interview Prep - Project Log
 
 ## Warmup Project 
 
